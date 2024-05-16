@@ -1,2 +1,2 @@
 # dio-java-basic
-Java DIO bootcamp
+Dio Java Bootcamp
