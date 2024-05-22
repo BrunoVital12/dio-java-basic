@@ -5,8 +5,11 @@ public class Calculadora {
         Scanner lerTeclado = new Scanner(System.in);
         int escolha;
 
+        System.out.println("\n\n----------------------------------------------------");
+        System.out.println("CALCULADORA");
+
         while (true) {
-            System.out.println("\n\n----------------------------------------------------");
+            
             System.out.println("\nEscolha a opção:\n1-Soma\n2-Subtração\n3-Multiplicação\n4-Divisão");
             escolha = lerTeclado.nextInt();
 
