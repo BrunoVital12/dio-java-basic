@@ -1,6 +1,6 @@
 public class SmartTv {
     // Atributos da TV: ligada, canal e volume.
-    boolean ligada = false;  // A TV começa desligada.
+    boolean ligada = false ;  // A TV começa desligada.
     int canal = 1;  // A TV começa no canal 1.
     int volume = 25;  // A TV começa com volume 25.
 
