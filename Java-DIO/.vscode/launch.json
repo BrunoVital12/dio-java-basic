@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java-DIO_e54d611b"
+        },
+        {
+            "type": "java",
             "name": "iscanerInputdeDados",
             "request": "launch",
             "mainClass": "iscanerInputdeDados",
